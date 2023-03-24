@@ -31,7 +31,7 @@ body > article{
 }
 body > article > a{
     text-decoration: none;
-    color:white;
+    color:rgb(214, 214, 214);
     line-height: 40px;   
     margin: auto;
     font-size: 1.3;
